@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class addThreeNum {
+    public static void main(String[] args) {
+        System.out.println("Add Three Number Sum");
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter First Number: ");
+        float a = sc.nextFloat();
+
+        System.out.print("Enter Second Number: ");
+        float b = sc.nextFloat();
+
+        System.out.print("Enter Third Number: ");
+        float c = sc.nextFloat();
+
+        float sum = a + b + c;
+
+        System.out.println("Sum of Three Numbers: " + sum);
+    }
+}
