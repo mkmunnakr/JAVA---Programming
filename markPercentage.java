@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class marksPercentage {
+public class markPercentage {
     public static void main(String[] args) {
         System.out.println("Calculate Marks Percentage of a given Student");
         Scanner sc = new Scanner(System.in);
