@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CGPACal {
+public class SamplecgpaCal {
     public static void main(String[] args) {
         System.out.println("<------  Normal CGPA Calculator  ------> ");
         Scanner sc = new Scanner(System.in);
