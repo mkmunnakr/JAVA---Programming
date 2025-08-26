@@ -1,4 +1,4 @@
-public class ps02_pr01 {
+public class ps02_pr01Operater {
 // Simple Operater 
     public static void main(String[] args) {
         float a = 7/4.0f + 9/2.0f;
